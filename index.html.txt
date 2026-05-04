@@ -1,0 +1,181 @@
+<!DOCTYPE html><html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VULT IPTV</title><style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Tahoma";
+}
+
+body {
+    background: linear-gradient(180deg, #0a0a0a, #121212);
+    color: white;
+}
+
+/* HEADER */
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+    background: #0f0f0f;
+}
+
+.logo {
+    color: gold;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* HERO */
+.hero {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.hero h1 {
+    font-size: 34px;
+}
+
+.hero span {
+    color: gold;
+}
+
+/* FEATURES */
+.features {
+    padding: 20px;
+}
+
+.feature {
+    background: #1a1a1a;
+    padding: 18px;
+    margin-bottom: 12px;
+    border-radius: 15px;
+}
+
+/* BUTTON */
+.btn {
+    background: gold;
+    color: black;
+    padding: 14px;
+    display: block;
+    text-align: center;
+    border-radius: 12px;
+    margin: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* SECTION */
+.section {
+    padding: 25px 20px;
+}
+
+.box {
+    background: #1a1a1a;
+    padding: 15px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+}
+
+/* PRICING */
+.card {
+    background: #1a1a1a;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+}
+
+.price {
+    color: gold;
+    font-size: 22px;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #0f0f0f;
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+footer a {
+    color: gold;
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+/* WHATSAPP */
+.whatsapp {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    background: #25D366;
+    padding: 15px;
+    border-radius: 50%;
+}
+</style></head><body><header>
+<div>☰</div>
+<div class="logo">VULT</div>
+</header><section class="hero">
+<h1>خلّ الترفيه عندك <span>بدون انقطاع</span></h1>
+<p>أفلام • مسلسلات • مباريات</p>
+</section><section class="features">
+<div class="feature">محتوى ضخم</div>
+<div class="feature">رياضة مباشرة</div>
+<div class="feature">جودة عالية</div>
+<div class="feature">سعر يفرق</div>
+</section><a class="btn" href="https://wa.me/966549216086">ابدأ الآن على واتساب</a>
+
+<!-- الباقات --><section class="section" id="plans">
+<h2>الباقات والأسعار</h2><div class="card">
+<h3>باقة فولتشر 🔥</h3>
+<p>قنوات + أفلام + مسلسلات</p>
+<div class="price">149 ريال / سنة</div>
+</div><div class="card">
+<h3>6 أشهر</h3>
+<div class="price">99 ريال</div>
+</div><div class="card">
+<h3>3 أشهر</h3>
+<div class="price">69 ريال</div>
+</div></section><!-- طريقة الاشتراك --><section class="section" id="how">
+<h2>طريقة الاشتراك</h2><div class="box">
+<strong>1) اختر الباقة</strong><br>
+حدد: فولتشر (شامل) أو فليكس (أفلام ومسلسلات)
+</div><div class="box">
+<strong>2) راسلنا واتساب</strong><br>
+أرسل مدة الاشتراك اللي تناسبك، وبنرد عليك مباشرة
+</div><div class="box">
+<strong>3) تفعيل واستمتاع</strong><br>
+يتم التفعيل بسرعة وتبدأ المتعة
+</div></section><!-- FAQ --><section class="section" id="faq">
+<h2>الأسئلة الشائعة</h2><div class="box">
+<strong>هل التفعيل سريع؟</strong><br>
+نعم، غالبًا يتم خلال وقت قصير
+</div><div class="box">
+<strong>هل أقدر أجدد الاشتراك بسهولة؟</strong><br>
+نعم بكل سهولة عبر واتساب
+</div><div class="box">
+<strong>وش الفرق بين فولتشر وفليكس؟</strong><br>
+فولتشر شامل قنوات + أفلام، فليكس أفلام ومسلسلات فقط
+</div><div class="box">
+<strong>كيف أتواصل معكم؟</strong><br>
+عبر واتساب مباشرة
+</div><a class="btn" href="https://wa.me/966549216086">تواصل الآن على واتساب</a>
+
+</section><!-- FOOTER --><footer>
+<p><strong>VULT</strong> اشتراكات أفلام • مسلسلات • مباريات</p>
+<p>
+<a href="#plans">الباقات</a> |
+<a href="#how">طريقة الاشتراك</a> |
+<a href="#faq">الأسئلة</a>
+</p>
+<p>واتساب: 966549216086</p>
+<p>© 2026 VULT — جميع الحقوق محفوظة</p>
+</footer><a class="whatsapp" href="https://wa.me/966549216086">💬</a>
+
+</body>
+</html>
